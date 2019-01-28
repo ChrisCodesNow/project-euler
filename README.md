@@ -1,10 +1,6 @@
-<h1> README </h1>
+# README
+Store Project Euler practice problems.
 
-<p> Store Project Euler practice problems. </p>
-
-<p> Goals for the project </p>
-
-<ol>
-	<li> Practice solving math problems through computation </li>
-	<li> Further knowledge of math topics </li>
-</ol>
+### Goals for the project
+- Practice solving math problems through computation
+- Further knowledge of math topics
