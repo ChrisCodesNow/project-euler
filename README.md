@@ -1,5 +1,5 @@
 # README
-Store Project Euler practice problems.
+Here is where I practice Project Euler problems.
 
 ### Goals for the project
 - Practice solving math problems through computation
